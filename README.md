@@ -28,4 +28,3 @@ The dataset contains sample sales transactions with columns like Order ID, Date,
 
 ---
 
-💼 Suitable for showcasing in your Data Analyst portfolio.
